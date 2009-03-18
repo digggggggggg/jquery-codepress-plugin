@@ -1,10 +1,7 @@
 /*
- ### jQuery Codepress Plugin v1.2 - 2008-04-17 ### * http://www.fyneworks.com/ - diego@fyneworks.com
-Licensed under a Creative Commons Attribution-Share Alike 2.0 UK: England & Wales License
-	-	LICENSE INFO:
-	  http://creativecommons.org/licenses/by-sa/2.0/uk/
-	-	CREDIT LINK (at your convenience):
-	  <a rel="license" href="http://creativecommons.org/licenses/by-sa/2.0/uk/"><img alt="Creative Commons License" style="border-width:0" src="http://i.creativecommons.org/l/by-sa/2.0/uk/88x31.png"/></a><br/><span xmlns:dc="http://purl.org/dc/elements/1.1/" href="http://purl.org/dc/dcmitype/Text" property="dc:title" rel="dc:type">jQuery Codepress Plugin</span> by <a xmlns:cc="http://creativecommons.org/ns#" href="http://www.fyneworks.com/" property="cc:attributionName" rel="cc:attributionURL">Fyneworks.com</a> is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/2.0/uk/">Creative Commons Attribution-Share Alike 2.0 UK: England & Wales License</a>.
+ ### jQuery Codepress Plugin v1.2 - 2008-04-17
+	### * http://www.fyneworks.com/ - diego@fyneworks.com
+ Licensed under a Creative Commons Attribution-Share Alike 2.0 UK: England & Wales License
 	###
  Official Project: http://jquery.com/plugins/project/Codepress/
  Official Website: http://www.fyneworks.com/jquery/Codepress/
